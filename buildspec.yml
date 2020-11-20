@@ -6,6 +6,6 @@ phases:
   install: 
     commands: 
       - javac SystemDemo.java
-      - java SystemDemo.java
+      - java SystemDemo.jav
 
    
